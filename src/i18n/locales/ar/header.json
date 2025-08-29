@@ -1,0 +1,17 @@
+{
+	"grocery": "بقالة",
+	"home": "الرئيسية",
+	"shop": "المتجر",
+	"about": "معلومات عنا",
+	"contact": "تواصل معنا",
+	"search_input": {
+		"search_product": "ابحث عن منتج",
+		"no_products": "لا يوجد منتجات لعرضها."
+	},
+	"languages": {
+		"icon_title": "تغيير اللغة",
+		"arabic": "العربية",
+		"english": "الانجليزية",
+		"toast_arabic": "تم تغيير لغة الموقع الي اللغة العربية"
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"scroll_up": "الصعود لأعلي",
+	"hero_section": {
+		"headline": "طعام طازج إلى باب منزلك",
+		"shop_now": "تسوق الآن"
+	},
+
+	"popular_products": "المنتجات الشائعة",
+	"no_products": "لا يوجد منتجات لعرضها.",
+	"why_choose_us": {
+		"title": "لماذا نحن؟",
+		"features": {
+			"quality_title": "جودة 100%",
+			"quality_description": "نضمن لك منتجات عالية الجودة في كل طلب.",
+			"delivery_title": "توصيل سريع",
+			"delivery_description": "توصيل البقالة خلال ساعات فقط.",
+			"support_title": "دعم 24/7",
+			"support_description": "نحن دائمًا هنا لمساعدتك في أي وقت."
+		}
+	},
+
+	"image": "صورة",
+	"product_card": {
+		"view_details": "عرض التفاصيل",
+		"quantity": "الكمية",
+		"kcal": "الكالوري"
+	},
+	"cart": {
+		"your_cart": "سلة التسوق",
+		"product": "منتج",
+		"products": "منتجات",
+		"clear": "مسح الكل",
+		"checkout": "عرض السلة",
+		"total_price": "السعر الإجمالي",
+		"cart_empty": "لا يوجد منتجات فى سلة التسوق",
+		"buy_all": "شراء الكل",
+		"card": {
+			"quantity": "الكمية",
+			"base_price": "السعر الأساسي",
+			"total": "الإجمالي"
+		},
+		"toaster": {
+			"add_product": "تمت إضافة المنتج إلى السلة بنجاح",
+			"product_already_in_cart": "هذا المنتج موجود بالفعل في السلة",
+			"delete_product": "تمت إزالة المنتج من السلة",
+			"delete_all_Products": "تمت إزالة جميع المنتجات من السلة",
+			"cart_empty": "لا توجد منتجات في السلة",
+			"increase": "تم زيادة كمية المنتج",
+			"decrease": "تم تقليل كمية المنتج",
+			"min_limit": "لا يمكن تقليل الكمية لأقل من 1"
+		},
+		"dialog": {
+			"massege": "تريد مسح جميع العناصر من سلة التسوق؟",
+			"massege_sure": "هل أنت متأكد؟",
+			"massege_agree": "موافق",
+			"massege_disagree": "لا اوافق"
+		}
+	}
+}

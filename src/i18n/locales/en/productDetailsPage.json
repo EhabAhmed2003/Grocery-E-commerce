@@ -1,0 +1,28 @@
+{
+	"brand": "Brand: ",
+	"quantity": "Quantity: ",
+	"calories": "Calories: ",
+	"sugars": "Sugars: ",
+	"fat": "Fat: ",
+	"protein": "Protein: ",
+	"salt": "Salt: ",
+	"ingredients": "Ingredients: ",
+	"labels": "Labels: ",
+	"packaging": "Packaging: ",
+	"origins": "Origins: ",
+	"country": "Country: ",
+	"countries": "Countries: ",
+	"allergens": "Allergens: ",
+	"additives": "Additives: ",
+	"add_to_cart": "Add to Cart",
+	"kcal": "kcal",
+	"g": "gram",
+	"na": "N/A",
+	"unknown": "Unknown",
+	"no_data": "No data",
+	"none": "None",
+	"related_products": {
+		"title": "Related Products",
+		"no_products": "No Products Found."
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"scroll_up": "Scroll Up",
+	"hero_section": {
+		"headline": "Fresh Food Delivered to Your Door",
+		"shop_now": "Shop now"
+	},
+
+	"popular_products": "Popular Products",
+	"no_products": "No Products Found.",
+
+	"why_choose_us": {
+		"title": "Why Choose Us?",
+		"features": {
+			"quality_title": "100% Quality",
+			"quality_description": "We guarantee top-quality products with every order.",
+			"delivery_title": "Fast Delivery",
+			"delivery_description": "Get your groceries delivered within hours.",
+			"support_title": "24/7 Support",
+			"support_description": "We’re here for you anytime you need help."
+		}
+	},
+	"image": "Image",
+
+	"product_card": {
+		"view_details": "View Details",
+		"quantity": "Quantity",
+		"kcal": "Kcal"
+	},
+	"cart": {
+		"your_cart": "Your Cart",
+		"product": "Product",
+		"products": "Products",
+		"cart_empty": "There are no products in the cart",
+		"clear": "Clear",
+		"checkout": "View Cart",
+		"total_price": "Total Price",
+		"buy_all": "BUY ALL",
+
+		"card": {
+			"quantity": "Quantity",
+			"base_price": "Base Price",
+			"total": "Total"
+		},
+
+		"toaster": {
+			"add_product": "Product added to cart successfully",
+			"product_already_in_cart": "This product is already in your cart",
+			"delete_product": "Product removed from cart",
+			"delete_all_Products": "All products removed from cart",
+			"increase": "Product quantity increased",
+			"decrease": "Product quantity decreased",
+			"min_limit": "Cannot decrease quantity below 1"
+		},
+
+		"dialog": {
+			"massege": "Want to Delete All Products From Cart?",
+			"massege_sure": "Are You Sure?",
+			"massege_agree": "Agree",
+			"massege-disagree": "Disagree"
+		}
+	}
+}

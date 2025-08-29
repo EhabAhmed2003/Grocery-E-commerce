@@ -1,0 +1,27 @@
+{
+	"company": {
+		"title": "Company",
+		"item1": "About Us",
+		"item2": "Careers",
+		"item3": "Press"
+	},
+	"support": {
+		"title": "Support",
+		"item1": "Help Center",
+		"item2": "FAQs",
+		"item3": "Contact Support"
+	},
+	"legal": {
+		"title": "Legal",
+		"item1": "Privacy Policy",
+		"item2": "Terms of Service",
+		"item3": "Cookie Policy"
+	},
+	"newsletter": {
+		"title": "Newsletter",
+		"description": "Stay updated with our latest news",
+		"placeholder": "Your email",
+		"buttonText": "Subscribe"
+	},
+	"copyright": "Grocery. All rights reserved."
+}

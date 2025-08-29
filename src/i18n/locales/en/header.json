@@ -1,0 +1,17 @@
+{
+	"grocery": "Grocery",
+	"home": "Home",
+	"shop": "Shop",
+	"about": "About",
+	"contact": "Contact",
+	"search_input": {
+		"search_product": "Search Product",
+		"no_products": "No Products Found."
+	},
+	"languages": {
+		"icon_title": "Change Language",
+		"arabic": "Arabic",
+		"english": "English",
+		"toast_english": "Website Language Changed To English Successfully"
+	}
+}
