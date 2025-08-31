@@ -1,12 +1,44 @@
-# React + Vite
+# 🛒 Grocery E-Commerce Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **frontend web application** for selling grocery products.  
+Built with **React** and styled using **TailwindCSS** & **Material UI**, it delivers a smooth user experience with animations and multi-language support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Grocery E-Commerce Website](https://groceryecommerce1.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5, CSS3, JavaScript (ES6+)**
+- **React.js**
+- **React Router** – navigation & routing
+- **Redux Toolkit** – state management
+- **Tailwind CSS** – styling
+- **Material UI (MUI)** – UI components
+- **Framer Motion** – animations
+- **Axios** – API handling
+- **i18next** – multi-language support
+
+---
+
+## ✨ Features
+
+- 🗂️ **Sidebar for Categories** – navigate easily between product types.
+- 🏠 **Home Page** – shows featured products & popular categories.
+- 📦 **Product Listing Page** – browse all available products.
+- 🔍 **Product Details Page** – detailed info with similar product suggestions.
+- 🔎 **Search Functionality** – find any product instantly.
+- 📱 **Responsive Design** – optimized for mobile, tablet, and desktop.
+- 🌗 **Light & Dark Mode** – theme switching available.
+- 🌍 **Multi-Language** – supports **English** & **Arabic** with i18next.
+
+---
+
+## 📸 Screenshots
+
+"./public/images/grocery_dark.png"
+"./public/images/grocery_light.png"
