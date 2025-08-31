@@ -7,7 +7,7 @@ Built with **React** and styled using **TailwindCSS** & **Material UI**, it deli
 
 ## 🚀 Live Demo
 
-🔗 [Grocery E-Commerce Website](https://groceryecommerce1.netlify.app/)
+🔗 [Grocery E-Commerce Website](https://groceryecommerce2.netlify.app/)
 
 ---
 
