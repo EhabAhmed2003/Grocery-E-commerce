@@ -40,5 +40,6 @@ Built with **React** and styled using **TailwindCSS** & **Material UI**, it deli
 
 ## 📸 Screenshots
 
-"./public/images/grocery_dark.png"
-"./public/images/grocery_light.png"
+[Dark Mode Image](./public/images/grocery_dark.png)
+
+[Light Mode Image](./public/images/grocery_light.png)
